@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(99, 9, 9);    
+}
+#countdown{
+    display: flex;
+    justify-content: center;
+    padding:10%;
+    color:rgb(232, 229, 233) ;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 500%;
+}
